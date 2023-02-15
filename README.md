@@ -10,7 +10,7 @@ I'm on a mission to inspire others to join the coding community and discover the
 
 After working as a science teacher, I decided to switch careers and pursue my love of coding. I completed a coding bootcamp which allowed me to  work on sevearl project and develop my skills as a full-stack developer. I'm currently interested in expanding my knowledge by learning Golang and practicing algorithms.
 
-I also run a coding Instagram account <a src="https://www.instagram.com/breezycoder/">breezycoder</a> where I share my journey and inspire others to make the switch. Come say hi and let's connect over our shared love of coding!
+I also run a coding Instagram account where I share my journey and inspire others to make the switch. Come say hi and let's connect over our shared love of coding!
 
 I'm always on the lookout for new opportunities and challenges, so if you have a cool project in mind or just want to chat, don't hesitate to reach out. Let's create something awesome together!
 </div>
