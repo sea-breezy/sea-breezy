@@ -66,6 +66,8 @@ See the README.md of each project for more details about the specifics of the pr
 </div>
 <br>
 
+<p align="center"><img align="center" src="https://github.com/sea-breezy/sea-breezy/blob/output/github-contribution-grid-snake.svg" /></p>
+
 ---
 <div align="center">
 Footer
