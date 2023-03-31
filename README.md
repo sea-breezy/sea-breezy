@@ -3,7 +3,6 @@
 <h2 align="center">Hi there 👋 I'm Camilla, forensic scientist turned software developer.</h2>
 
 <div style='display:flex, flex-direction:column, justify-content:center'>
-//<img align="left" src="./img/Profile/profileSquare.png" width="370" height='370' style='margin-right: 15px'>
 
 <div style='display:flex'>
 I'm on a mission to inspire others to join the coding community and discover the endless possibilities of this amazing field.
