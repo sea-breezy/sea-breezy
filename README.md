@@ -7,7 +7,7 @@
 <div style='display:flex'>
 I'm on a mission to inspire others to join the coding community and discover the endless possibilities of this amazing field.
 
-After working as a science teacher, I decided to switch careers and pursue my love of coding. I completed a coding bootcamp which allowed me to  work on sevearl project and develop my skills as a full-stack developer. I'm currently interested in expanding my knowledge by learning React Native and practicing algorithms.
+After working as a science teacher, I decided to switch careers and pursue my love of coding. I completed a coding bootcamp which allowed me to  work on several project and develop my skills as a full-stack developer, and I'm now working as a full-time software engineer and focusing on learning Java and Spring.
 
 I also run a coding Instagram account where I share my journey and inspire others to make the switch. Come say hi and let's connect over our shared love of coding!
 
